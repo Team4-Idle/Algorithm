@@ -1,5 +1,5 @@
 class Solution {
-    public String solution(int a, int b) {
+    public String PG_12901(int a, int b) {
         //a=1; b=1;
         String answer = "";
         int[] months = {0, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
